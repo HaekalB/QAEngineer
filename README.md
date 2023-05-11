@@ -6,7 +6,7 @@ Tools yang harus disiapkan :
 - install chromedriver
 - install behave
 
-Buka file tersebut di visual code studio
-Buka terminal dan ketik "Behave" pada terminal
-Program akan berjalan untuk melakukan test automation
+Buka file tersebut di visual code studio <br />
+Buka terminal dan ketik "Behave" pada terminal <br />
+Program akan berjalan untuk melakukan test automation <br />
 hasil dapat dilihat di terminal 
